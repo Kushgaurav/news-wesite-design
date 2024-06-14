@@ -4,7 +4,7 @@ This project is a sample news website landing page design created using HTML, CS
 
 ## Usage
 
-To view the live demo of this project, click the animated button below:
+To view the live demo of this project, click the link below:
 
 <a href="https://rajputpritesh1.github.io/news-wesite-design/">Preview</a>
 
